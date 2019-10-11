@@ -9,6 +9,9 @@
 ![마녀의샘](https://lh3.googleusercontent.com/InQRX4iElwZ4Dbb1dxDmKMqvxZqRpmU0iIIW009l5u7SZIcjGLh_iaMHjCK6TLEjp083=w1920-h969-rw "마녀의샘 이미지 입니다.")
 
 소개
+![마녀의샘소개이미지](./Pictures/Spring3.PNG)
+
+
 마녀의 성장 방향, 
 그리고 플레이어의 선택에 따라 마녀의 운명이 결정됩니다.
 아이루디는 친구를 만나 행복한 결말을 보게 되거나,
