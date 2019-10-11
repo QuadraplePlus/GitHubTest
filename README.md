@@ -2,16 +2,16 @@
 # RPG 게임 사례 조사
 
 
-# 1.마녀의 샘
+## 0.마녀의 샘
 
-공식싸이트 : https://www.kiwiwalks.com/ <br>
+공식사이트 : https://www.kiwiwalks.com/ <br>
 
 ![마녀의샘](https://lh3.googleusercontent.com/InQRX4iElwZ4Dbb1dxDmKMqvxZqRpmU0iIIW009l5u7SZIcjGLh_iaMHjCK6TLEjp083=w1920-h969-rw "마녀의샘 이미지 입니다.")
 <br>
 
 **소개** <br>
 
-![마녀의샘소개이미지](./Pictures/Spring3.PNG)
+![소개이미지](./Pictures/Spring3.PNG)
 
 마녀의 성장 방향, <br>
 그리고 플레이어의 선택에 따라 마녀의 운명이 결정됩니다. <br>
