@@ -1,7 +1,5 @@
 # RPG 게임 사례 조사
 
-사례조사 입니다.
-
 ## 마녀의 샘
 
 공식사이트 : https://www.kiwiwalks.com/ <br>
