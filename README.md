@@ -1,5 +1,3 @@
-# 1.마녀의 샘
-
 # RPG 게임 사례 조사
 
 
@@ -39,13 +37,27 @@
 [이터널시티공식사이트](http://eternalcity.mgame.com/)
 
 ![Alt text](./Pictures/city1.jpg)
-
-![Alt text](./Pictures/city2.png)
-
+###### 게임소개
+![Alt text](./Pictures/city2.PNG)
 
 이터널 시티는 2003년 엠게임 에서 시작해  16 년째 서비스 중인 MMORPG 게임.  불도저라는 게임사에서 만든 자체 엔진을 사용 하였다.
 
-![Alt text](./Pictures/city3.png)
-
+![Alt text](./Pictures/city3.PNG)
+###### 특징
 이터널 시티의 특징은 보통 RPG게임과는 다르게 현대를 설정으로 하였고.  간판, 거리, 차량 같은 배경을 2002 년 대한민국을 베이스로 하였으므로 플레이어에게 친숙함을 주었으며. 게임 플레이는 몬스터를 잡아 랜덤으로 드랍한 장비로 튜닝 및 강화하여 장착 할 수 있다. 특히 재미있는 점이 채널이름은 1491년 대마도 정벌, 2002년 폭력의 도시 등으로 되어있는점이다
 최고 레벨 마법만 전체 범위 공격이었던 전작과 달리, 상위 마법으로 갈수록 단계별로 공격 범위가 증가한다. <br>
+
+## 나르실리온
+
+### 2002년 작품
+ 
+ 
+ ![alt](http://file.gamedonga.co.kr/files/images/analysis_images_n/narsillion/narsillion_control01.jpg "나르실리온")
+ 
+
+레벨이 없고 경험치를 모아서 스탯을 살 수있다.
+룬을 모아서 마법을 배울 수 있다.
+4명의 캐릭터중 하나를 플레이어가 조종하고 나머지는 ai이다.
+
+게임 공략 : http://game.donga.com/5345/
+ 
